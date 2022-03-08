@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/philipphecht/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
  
-## About Me
-
-I'm philipphecht, a ** Cloud/Software/Blockchain Architect ** living on this beautiful Earth.
-
- 
 ## Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -39,7 +34,3 @@ I'm philipphecht, a ** Cloud/Software/Blockchain Architect ** living on this bea
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-  
-## Stats
-
-![iamphilpike's github stats](https://github-readme-stats.vercel.app/api?username=iamphilpike&show_icons=true&hide_border=false&theme=white&count_private=true&hide_title=false)
